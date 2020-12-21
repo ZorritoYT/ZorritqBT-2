@@ -24,9 +24,7 @@ Files\Batbox.exe
 Files\certutil.exe
 Files\windowontop.exe
 Files\Sounds\MusicCore.vbs
-Files\Sounds\Dsp.dll
-Files\Sounds\zlib1.dll
-Files\Sounds\SBFS-1.ogg
-Files\Sounds\DSOY-1.ogg
-Files\Sounds\BP-1.ogg
+Files\Sounds\SBFS-1.mp3
+Files\Sounds\DSOY-1.mp3
+Files\Sounds\BP-1.mp3
 true
