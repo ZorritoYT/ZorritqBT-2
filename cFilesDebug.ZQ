@@ -23,7 +23,5 @@ Files\Batbox.exe
 Files\certutil.exe
 Files\windowontop.exe
 Files\Sounds\MusicCore.vbs
-Files\Sounds\SBFS-1.mp3
-Files\Sounds\DSOY-1.mp3
-Files\Sounds\BP-1.mp3
+Files\Sounds\Default.mp3
 true
