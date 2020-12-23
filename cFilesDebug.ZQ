@@ -26,8 +26,9 @@ Files\certutil.exe
 Files\windowontop.exe
 Files\config.ini
 Files\Dclose.dll
-Files\Sounds\MusicCore.vbs
-Files\Sounds\Default.mp3
+Files\Sounds\Default.ogg
+Files\Sounds\Dsp.dll
+Files\Sounds\zlib1.dll
 Files\Sounds\StartD.bat
 Files\Sounds\DSTART.bat
 true
