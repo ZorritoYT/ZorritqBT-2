@@ -29,10 +29,9 @@ Files\windowontop.exe
 Files\config.ini
 Files\Dclose.dll
 Files\Sounds\SecuenciaHIDE.vbs
-Files\Sounds\Default.ZQ
-Files\Sounds\Default2.ZQ
-Files\Sounds\Dsp.dll
-Files\Sounds\zlib1.dll
+Files\Sounds\Default.mp3
+Files\Sounds\Default2.mp3
+Files\Sounds\dlc.exe
 Files\Sounds\StartD.bat
 Files\Sounds\DSTART.bat
 Files\Games
