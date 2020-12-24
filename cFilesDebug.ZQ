@@ -34,4 +34,9 @@ Files\Sounds\Dsp.dll
 Files\Sounds\zlib1.dll
 Files\Sounds\StartD.bat
 Files\Sounds\DSTART.bat
+Files\Games
+Files\Games\cmdrunner
+Files\Games\mariorun
+Files\Games\pong3d
+Files\Games\shootem
 true
