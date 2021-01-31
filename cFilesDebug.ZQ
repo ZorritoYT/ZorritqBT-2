@@ -7,8 +7,6 @@ ReINIT.bat
 ReINIT2.bat
 fart.exe
 B64.exe
-PresenceCFG.bat
-Files\ZQdetectShell.vbs
 Files\Fn.dll
 Files\centerwindow.bat
 Files\cmdwiz.exe
@@ -18,12 +16,10 @@ Files\Readline.exe
 Files\SaveFile.exe
 Files\Transparencia.exe
 Files\TribyFolders.exe
-Files\ZQdetect.bat
 Files\Button.bat
 Files\Batbox.exe
 Files\nconvert.exe
 Files\windowontop.exe
-Files\config.ini
 Files\Dclose.dll
 Files\Sounds\dlc.exe
 Files\Sounds\ikpMP3.dll
